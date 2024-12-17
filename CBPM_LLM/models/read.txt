@@ -1,0 +1,1 @@
+please download 'llama-3-8b-Instruct-bnb-4bit' from huggingface (https://huggingface.co/unsloth/llama-3-8b-Instruct-bnb-4bit)
